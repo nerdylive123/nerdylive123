@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nerdylive123)
- 🌱 I’m currently learning Web Development, AI things
+ 🌱 I like Web Development, AI things
+ 💬 Ask me about AI things (image generation, LLM), Runpod Things
 <!--
 **nerdylive123/nerdylive123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
