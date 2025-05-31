@@ -1,6 +1,6 @@
 ## Hi there 👋
 * ![Profile View Counter](https://komarev.com/ghpvc/?username=nerdylive123)
-* Sign up to Runpod: https://get.runpod.io/nerdylive
+* Runpod Sign Up: https://get.runpod.io/nerdylive
 
 
  🌱 I like Web Development, Explorig AI things
