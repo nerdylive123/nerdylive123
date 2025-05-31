@@ -15,7 +15,6 @@
   height="872"
 />
 * [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=586n6pr1vwbezck28mt7jopn9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 <!--
 **nerdylive123/nerdylive123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
