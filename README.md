@@ -1,8 +1,20 @@
 ## Hi there 👋
-![Profile View Counter](https://komarev.com/ghpvc/?username=nerdylive123)
-![Sign up to Runpod](https://get.runpod.io/nerdylive)
- 🌱 I like Web Development, AI things
- 💬 Ask me about AI things (image generation, LLM), Runpod Things
+* ![Profile View Counter](https://komarev.com/ghpvc/?username=nerdylive123)
+* Sign up to Runpod: https://get.runpod.io/nerdylive
+
+
+ 🌱 I like Web Development, Explorig AI things
+ ℹ️ **💬 Ask me about**:  AI things (image generation, LLM), Runpod Things
+
+## 📊Stats
+[![w](https://wakatime.com/badge/user/145338ca-f3ac-401c-8a78-13c317b7e092.svg)](https://wakatime.com/@145338ca-f3ac-401c-8a78-13c317b7e092)
+<img
+  src="https://wakatime.com/share/@nerdylive123/c83e8a7d-efe7-46a5-ac70-9e9ac7fc0389.svg"
+  alt="WakaTime stats"
+  width="1080"
+  height="872"
+/>
+
 <!--
 **nerdylive123/nerdylive123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
