@@ -29,4 +29,4 @@
   width="1080"
   height="872"
 />
-* ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=586n6pr1vwbezck28mt7jopn9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]
+* ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=586n6pr1vwbezck28mt7jopn9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
