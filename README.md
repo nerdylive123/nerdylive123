@@ -1,10 +1,11 @@
 ## Jason Clarence
 
-Business student working in digital commerce, building the AI systems the
-businesses around me actually need. Mostly Python and PHP, Postgres, and
-whatever the problem turns out to require.
+Final-year E-Commerce student at Xiamen University Malaysia, building the AI
+systems the businesses around me actually need. Mostly Python and PHP, Postgres,
+and whatever the problem turns out to require.
 
-Based in Indonesia 🇮🇩
+Indonesian, based in Malaysia. Open to an industrial training placement,
+25 Jan to 26 Mar 2027 · [LinkedIn](https://www.linkedin.com/in/jason-csb)
 
 ---
 
@@ -16,12 +17,17 @@ operational knowledge with them. This reads the archive, finds what the owner
 already decided, and drafts a reply with a citation. Hybrid retrieval — BM25 over
 Postgres' Indonesian stemmer fused with pgvector by reciprocal rank fusion — plus
 a PII redaction pipeline enforced by the schema rather than by remembering to run
-it. ~23k lines of Python, 474 tests.
+it. ~23k lines of Python, 584 tests passing.
 
 **[KerjaCerdas](https://github.com/LouSens/KerjaCerdas)** · AI recruitment platform
-Multi-agent screening on LangGraph with semantic candidate matching over pgvector.
-Team project led by [@LouSens](https://github.com/LouSens) — I own the matching
-engine, the agent graph, and the embeddings layer.
+Explainable candidate matching over pgvector, with a LangGraph agent for the
+conversational side. Team project led by David Huang; I own the matching engine,
+the graph builder and the embeddings adapter.
+
+**[Support ticket pipeline](https://github.com/nerdylive123/chatbot-deriv)** · public
+Classifies tickets, retrieves help articles, drafts a grounded reply and decides
+with deterministic rules when a person must review it. Runs fully offline; 359
+tests passing.
 
 **An AI image generation platform** · *private*
 Laravel + Vue, multi-provider generation behind one handler interface, a credit
